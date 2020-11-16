@@ -17,8 +17,8 @@
 
 @ pkg install git
 
-@ git clone https://github.com/shamim-3/New-clone
+@ git clone https://github.com/shamim-3/clone71
 
-@ cd New-clone
+@ cd clone71
 
-@
+@ python2 shamim
