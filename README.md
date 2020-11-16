@@ -21,4 +21,4 @@
 
 @ cd clone71
 
-@ python2 shamim
+@ python2 Shamim
